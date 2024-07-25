@@ -1,0 +1,10 @@
+jupyter
+pandas~=2.2.2
+seaborn
+matplotlib~=3.9.1
+./DigiPythonTools
+
+DigiPythonTools~=1.0.5
+PyYAML~=6.0.1
+pyodbc~=5.1.0
+setuptools~=68.2.0
